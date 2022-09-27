@@ -20,7 +20,7 @@
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/MB/3.png)
 + При нажатии клавиши "Send", введенное сообщение перемещается в начало стека сообщений, поле ввода становится пустым.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/MB/4.png)
-+ Как только пользователь доскроллил до верха, подгружается следующая пачка сообщений, где идет происходит процесс загрузки сообщений - стоит индикатор загрузки.
++ Как только пользователь доскроллил до верха, подгружается следующая пачка сообщений, где происходит процесс загрузки сообщений - стоит индикатор загрузки.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/MB/5.png)
 + Когда с сервера больше не приходят новые сообщения, отображается алерт.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/MB/6.png)
